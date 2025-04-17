@@ -405,9 +405,6 @@
                 });
 
                 gameContext.Start.Move(gameContext);
-
-                
-
             }
         }
     }
